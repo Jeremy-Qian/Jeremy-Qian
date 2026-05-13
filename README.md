@@ -1,12 +1,8 @@
 > My email is jeremytheking2013@gmail.com  
 > Feel free to report issues on my code!
 
-## Jeremy-Qian
-- 👋 Hi, I’m @Jeremy-Qian
-- 👀 I’m interested in coding and app making.
-- 🌱 I’m currently learning C++.
-- 😄 Pronouns: HE,HIM
-- ⚡ Fun fact: I started coding when I was 6 years old!
+<img width="851" height="315" alt="Jeremy Qian" src="https://github.com/user-attachments/assets/082ec589-3f4a-49dd-a7b2-b90f16715847" />
+
 
 <!---
 Jeremy-Qian/Jeremy-Qian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
