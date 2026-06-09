@@ -1,9 +1,21 @@
+# Jeremy Qian
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Swift/swift2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg)
+
+
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Qt/qt2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos2.svg)
+
 > My email is jeremytheking2013@gmail.com  
-> Feel free to report issues on my code!
+
 
 <img width="851" height="315" alt="Jeremy Qian" src="https://github.com/user-attachments/assets/082ec589-3f4a-49dd-a7b2-b90f16715847" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jeremy-Qian&theme=dark&hide_border=true&border_radius=10&date_format=%5BY.%5Dn.j&card_width=600)](https://git.io/streak-stats)
+
+
 <!--Jeremy-Qian/Jeremy-Qian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
