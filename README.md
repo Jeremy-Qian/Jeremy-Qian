@@ -17,11 +17,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58649](https://github.com/zed-industries/zed/pull/58649) in [zed-industries/zed](https://github.com/zed-industries/zed)
-2. 🎉 Merged PR [#113](https://github.com/Jeremy-Qian/JereIDE/pull/113) in [Jeremy-Qian/JereIDE](https://github.com/Jeremy-Qian/JereIDE)
-3. 💪 Opened PR [#113](https://github.com/Jeremy-Qian/JereIDE/pull/113) in [Jeremy-Qian/JereIDE](https://github.com/Jeremy-Qian/JereIDE)
-4. 🗣 Commented on [#58649](https://github.com/zed-industries/zed/pull/58649#issuecomment-4631949411) in [zed-industries/zed](https://github.com/zed-industries/zed)
-5. ℹ️ Labeled issue [#58653](https://github.com/zed-industries/zed/issues/58653) in [zed-industries/zed](https://github.com/zed-industries/zed)
+1. 🗣 Commented on [#54844](https://github.com/zed-industries/zed/issues/54844#issuecomment-4703670389) in [zed-industries/zed](https://github.com/zed-industries/zed)
+2. 🎉 Merged PR [#58649](https://github.com/zed-industries/zed/pull/58649) in [zed-industries/zed](https://github.com/zed-industries/zed)
+3. 🎉 Merged PR [#113](https://github.com/Jeremy-Qian/JereIDE/pull/113) in [Jeremy-Qian/JereIDE](https://github.com/Jeremy-Qian/JereIDE)
+4. 💪 Opened PR [#113](https://github.com/Jeremy-Qian/JereIDE/pull/113) in [Jeremy-Qian/JereIDE](https://github.com/Jeremy-Qian/JereIDE)
+5. 🗣 Commented on [#58649](https://github.com/zed-industries/zed/pull/58649#issuecomment-4631949411) in [zed-industries/zed](https://github.com/zed-industries/zed)
 <!--END_SECTION:activity-->
 
 <!--Jeremy-Qian/Jeremy-Qian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
