@@ -12,7 +12,7 @@
 > My email is jeremytheking2013@gmail.com  
 
 
-<img width="851" height="315" alt="Jeremy Qian" src="https://github.com/user-attachments/assets/082ec589-3f4a-49dd-a7b2-b90f16715847" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=2000&pause=1000&color=3AC3C1&background=71FFFD00&center=true&vCenter=true&width=600&height=100&lines=CEO%2C+developer%2C+and+Rampion;CEO+of+the+Rampage;Active+GitHub+User;Rampion+at+the+Ramp;Skills%3A+Python%2C+Rust%2C+C%2B%2B)](https://git.io/typing-svg)
 
 
 ## Recent Activity
