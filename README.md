@@ -17,11 +17,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/Jeremy-Qian/JereIDER/pull/8) in [Jeremy-Qian/JereIDER](https://github.com/Jeremy-Qian/JereIDER)
-2. 💪 Opened PR [#8](https://github.com/Jeremy-Qian/JereIDER/pull/8) in [Jeremy-Qian/JereIDER](https://github.com/Jeremy-Qian/JereIDER)
-3. 🎉 Merged PR [#7](https://github.com/Jeremy-Qian/JereIDER/pull/7) in [Jeremy-Qian/JereIDER](https://github.com/Jeremy-Qian/JereIDER)
-4. 💪 Opened PR [#7](https://github.com/Jeremy-Qian/JereIDER/pull/7) in [Jeremy-Qian/JereIDER](https://github.com/Jeremy-Qian/JereIDER)
-5. 🎉 Merged PR [#6](https://github.com/Jeremy-Qian/JereIDER/pull/6) in [Jeremy-Qian/JereIDER](https://github.com/Jeremy-Qian/JereIDER)
+1. 🔒 Closed issue [#10](https://github.com/JereIDE/JereIDE/issues/10) in [JereIDE/JereIDE](https://github.com/JereIDE/JereIDE)
+2. 🔒 Closed issue [#9](https://github.com/JereIDE/JereIDE/issues/9) in [JereIDE/JereIDE](https://github.com/JereIDE/JereIDE)
+3. 🎉 Merged PR [#8](https://github.com/Jeremy-Qian/JereIDER/pull/8) in [Jeremy-Qian/JereIDER](https://github.com/Jeremy-Qian/JereIDER)
+4. 💪 Opened PR [#8](https://github.com/Jeremy-Qian/JereIDER/pull/8) in [Jeremy-Qian/JereIDER](https://github.com/Jeremy-Qian/JereIDER)
+5. 🎉 Merged PR [#7](https://github.com/Jeremy-Qian/JereIDER/pull/7) in [Jeremy-Qian/JereIDER](https://github.com/Jeremy-Qian/JereIDER)
 <!--END_SECTION:activity-->
 
 <!--Jeremy-Qian/Jeremy-Qian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
