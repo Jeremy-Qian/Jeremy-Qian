@@ -17,10 +17,10 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#115](https://github.com/JereIDE/JereIDE/pull/115) in [JereIDE/JereIDE](https://github.com/JereIDE/JereIDE)
-2. 🗣 Commented on [#50355](https://github.com/zed-industries/zed/issues/50355#issuecomment-4954171024) in [zed-industries/zed](https://github.com/zed-industries/zed)
-3. 🗣 Commented on [#54290](https://github.com/zed-industries/zed/issues/54290#issuecomment-4954157307) in [zed-industries/zed](https://github.com/zed-industries/zed)
-4. 🔒 Closed issue [#9](https://github.com/JereIDE/JereIDE/issues/9) in [JereIDE/JereIDE](https://github.com/JereIDE/JereIDE)
+1. 🎉 Merged PR [#115](https://github.com/JereIDE/JereIDE/pull/115) in [JereIDE/JereIDE](https://github.com/JereIDE/JereIDE)
+2. 💪 Opened PR [#115](https://github.com/JereIDE/JereIDE/pull/115) in [JereIDE/JereIDE](https://github.com/JereIDE/JereIDE)
+3. 🗣 Commented on [#50355](https://github.com/zed-industries/zed/issues/50355#issuecomment-4954171024) in [zed-industries/zed](https://github.com/zed-industries/zed)
+4. 🗣 Commented on [#54290](https://github.com/zed-industries/zed/issues/54290#issuecomment-4954157307) in [zed-industries/zed](https://github.com/zed-industries/zed)
 5. 🎉 Merged PR [#8](https://github.com/Jeremy-Qian/JereIDER/pull/8) in [Jeremy-Qian/JereIDER](https://github.com/Jeremy-Qian/JereIDER)
 <!--END_SECTION:activity-->
 
