@@ -4,9 +4,6 @@
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust2.svg)
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Swift/swift2.svg)
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg)
-
-
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Qt/qt2.svg)
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos2.svg)
 
 > My email is jeremytheking2013@gmail.com  
