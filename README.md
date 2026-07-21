@@ -9,7 +9,7 @@
 > My email is jeremytheking2013@gmail.com
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=2000&pause=1000&color=3AC3C1&background=71FFFD00&center=true&vCenter=true&width=600&height=100&lines=CEO%2C+developer%2C+and+Rampion;CEO+of+the+Rampage;Active+GitHub+User;Rampion+at+the+Ramp;Skills%3A+Python%2C+Rust%2C+C%2B%2B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=2000&pause=1000&color=3AC3C1&background=71FFFD00&center=true&vCenter=true&width=600&height=100&lines=CEO+of+the+Rampage;Rampion+at+the+Ramp;Writes%3A+Python%2C+Rust%2C+Markdown;Developer+of+JereIDE)](https://git.io/typing-svg)
 
 
 <!--Jeremy-Qian/Jeremy-Qian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
